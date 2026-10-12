@@ -1,0 +1,6 @@
+{
+  "name": "La Chica De Las Pizzas",
+  "description": "Pizzería artesanal en Lima, Perú. Boxes de minipizzas, personalización al detalle y pedidos delivery express con Yape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
